@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chess-cypher/static/css/main.97b85bef.chunk.css",
+    "main.js": "/chess-cypher/static/js/main.37b323ef.chunk.js",
+    "main.js.map": "/chess-cypher/static/js/main.37b323ef.chunk.js.map",
+    "runtime-main.js": "/chess-cypher/static/js/runtime-main.bf19b599.js",
+    "runtime-main.js.map": "/chess-cypher/static/js/runtime-main.bf19b599.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/chess-cypher/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3452b7ff.chunk.js": "/chess-cypher/static/js/2.3452b7ff.chunk.js",
+    "static/js/2.3452b7ff.chunk.js.map": "/chess-cypher/static/js/2.3452b7ff.chunk.js.map",
+    "index.html": "/chess-cypher/index.html",
+    "precache-manifest.17c61e6ef74c9fb5c8967cd49effed31.js": "/chess-cypher/precache-manifest.17c61e6ef74c9fb5c8967cd49effed31.js",
+    "service-worker.js": "/chess-cypher/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/chess-cypher/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.97b85bef.chunk.css.map": "/chess-cypher/static/css/main.97b85bef.chunk.css.map",
+    "static/js/2.3452b7ff.chunk.js.LICENSE.txt": "/chess-cypher/static/js/2.3452b7ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf19b599.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3452b7ff.chunk.js",
+    "static/css/main.97b85bef.chunk.css",
+    "static/js/main.37b323ef.chunk.js"
+  ]
+}
